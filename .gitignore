@@ -1,0 +1,4 @@
+.vscode
+*.deb
+*.tar.xz
+*.tar.gz
