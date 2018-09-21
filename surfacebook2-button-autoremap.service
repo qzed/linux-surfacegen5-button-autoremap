@@ -1,0 +1,9 @@
+[Unit]
+Description=Automatic volume button re-mapping based on device orientation
+
+[Service]
+Type=simple
+ExecStart=/opt/surfacebook2-button-autoremap/autoremap.py
+
+[Install]
+WantedBy=default.target
