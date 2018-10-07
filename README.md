@@ -1,6 +1,6 @@
 # Auto-remap volume buttons based on device orientation
 
-Auto-remap Surface Book 2 and Surface Pro (2017) volume buttons based on device orientatio.
+Auto-remap Microsoft Surface Book 2 and Surface Pro (2017) volume buttons based on device orientation.
 
 Ensures that the left/lower volume button always decreases, and the right/upper always increases the volume.
 
