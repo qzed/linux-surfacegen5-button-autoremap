@@ -19,7 +19,7 @@ In the source directory, run `./pkg/build-deb.sh` to generate the package, which
 
 ### Arch Linux
 
-Build and install the package via the provided `PKGBUILD`, i.e. run `makepkg` inside the `pkg` folder (or the directory where you stored the `PKGBUILD`) and then `pacman -U *.tar.xz` to install the generated package.
+Build and install the package via the provided `PKGBUILD`, i.e. simply run `makepkg -si` inside the `pkg` folder (or the directory where you stored the `PKGBUILD`).
 
 ### Manual
 
